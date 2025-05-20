@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @TRKA234  
+- 👀 I’m interested in software development, mobile apps, and building impactful tech solutions.  
+- 🌱 I’m currently learning Flutter, Laravel, and improving my UI/UX design skills.  
+- 💞️ I’m looking to collaborate on open source projects, especially related to education, health, or productivity.  
+- 📫 How to reach me: [kardikoanando234@gmail.com] or via LinkedIn [www.linkedin.com/in/kardiko-anando-9078a6307]  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I enjoy coding while listening to traditional Minang music and lo-fi beats!
