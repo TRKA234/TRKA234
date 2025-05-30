@@ -30,29 +30,6 @@
 
 ---
 
-### 🌟 Highlighted Projects
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/TRKA234/flight-booking">
-        <img src="https://i.imgur.com/your-flightapp-thumbnail.jpg" alt="Flight Booking App" width="250"/><br>
-        <b>✈️ Flight Booking App</b>
-      </a>
-      <p><i>Java + MySQL + MVC</i></p>
-    </td>
-    <td align="center">
-      <a href="https://github.com/TRKA234/noteapp">
-        <img src="https://i.imgur.com/your-noteapp-thumbnail.jpg" alt="NoteApp" width="250"/><br>
-        <b>📝 NoteApp Android</b>
-      </a>
-      <p><i>Kotlin + SQLite</i></p>
-    </td>
-  </tr>
-</table>
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -65,6 +42,7 @@
 ### 📫 Contact Me
 
 - 📧 [kardikoanando234@gmail.com](mailto:kardikoanando234@gmail.com)
+- 📧 [anandokardiko1122@gmail.com](mailto:anandokardiko1122@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/kardiko-anando-9078a6307)
 
 ---
