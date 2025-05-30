@@ -1,6 +1,6 @@
 <!-- 👋 WELCOME BANNER -->
 <p align="center">
-  <img src="https://i.imgur.com/your-banner-image.jpg" alt="Welcome Banner" width="100%" />
+  <img src="https://www.instagram.com/p/DEDR6ZOy3af/?igsh=MWh6a28zOWJvYjBqcA==" alt="Welcome Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi there, I'm Kardiko Anando (@TRKA234) 👋</h1>
