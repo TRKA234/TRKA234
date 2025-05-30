@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TRKA234  
+- <h1>👋 Hi, I’m @TRKA234</h1>  
 - 👀 I’m interested in software development, mobile apps, and building impactful tech solutions.  
 - 🌱 I’m currently learning Flutter, Laravel, and improving my UI/UX design skills.  
 - 💞️ I’m looking to collaborate on open source projects, especially related to education, health, or productivity.  
