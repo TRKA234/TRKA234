@@ -1,6 +1,6 @@
 <!-- 👋 WELCOME BANNER -->
 <p align="center">
-  <img src="assets/trka234-banner.png.png" alt="TRKA234 Banner" width="100%" />
+  <img src="assets/trka234-banner.png" alt="TRKA234 Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi there, I'm Kardiko Anando (@TRKA234) 👋</h1>
