@@ -33,8 +33,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TRKA234&show_icons=true&theme=radical&v=1" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TRKA234&layout=compact&theme=radical&v=1" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=TRKA234&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=TRKA234&layout=compact&theme=radical" width="48%" />
 </p>
 
 ---
