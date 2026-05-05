@@ -63,6 +63,11 @@
 
 ---
 
+### 🏆 GitHub Achievements:
+![](https://github-profile-trophy.vercel.app/?username=sabranhakim&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
+---
+![](https://visitcount.itsvg.in/api?id=TRKA234&icon=0&color=1)
+
 <p align="center">
   <i>"Build with passion. Share with purpose."</i> 🚀
 </p>
